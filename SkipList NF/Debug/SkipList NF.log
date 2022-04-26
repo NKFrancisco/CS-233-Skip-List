@@ -1,0 +1,7 @@
+﻿  SkipList NF.cpp
+E:\.Francisco\Documents\School\EvCC\2021\Spring 21\CS 233\Programs\SkipList NF\SkipList NF\SkipList NF.cpp(37,20): warning C4018: '<': signed/unsigned mismatch
+E:\.Francisco\Documents\School\EvCC\2021\Spring 21\CS 233\Programs\SkipList NF\SkipList NF\SkipList.h(132,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\.Francisco\Documents\School\EvCC\2021\Spring 21\CS 233\Programs\SkipList NF\SkipList NF\SkipList.h(131): message : while compiling class template member function 'SkipList<int,ComputerScientist *>::SkipList(void)'
+E:\.Francisco\Documents\School\EvCC\2021\Spring 21\CS 233\Programs\SkipList NF\SkipList NF\SkipList NF.cpp(33): message : see reference to function template instantiation 'SkipList<int,ComputerScientist *>::SkipList(void)' being compiled
+E:\.Francisco\Documents\School\EvCC\2021\Spring 21\CS 233\Programs\SkipList NF\SkipList NF\SkipList NF.cpp(33): message : see reference to class template instantiation 'SkipList<int,ComputerScientist *>' being compiled
+  SkipList NF.vcxproj -> E:\.Francisco\Documents\School\EvCC\2021\Spring 21\CS 233\Programs\SkipList NF\Debug\SkipList NF.exe
